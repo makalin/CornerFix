@@ -10,7 +10,7 @@ Visually square the rounded **display** corners in macOS 26 (Tahoe) and newer by
 
 Apple made corners more aggressively rounded in macOS 26, and many users find the effect distracting. There’s no system setting to disable it. CornerFix provides a safe, non-invasive way to visually bring back sharp edges without hacking system files.
 
-Read the full story on Medium: [Reclaiming the Screen: A Developer’s Fix for macOS 26’s Corners](https://medium.com/)
+Read the full story on Medium: [Reclaiming the Screen: A Developer’s Fix for macOS 26’s Corners](https://medium.com/@makalin/reclaiming-the-screen-a-developers-fix-for-macos-26-s-corners-a28844a0974d)
 
 ---
 
