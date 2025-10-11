@@ -1,4 +1,5 @@
 import SwiftUI
+import Combine
 
 enum ColorMode: String, Codable, CaseIterable, Identifiable { case auto, custom; var id: String { rawValue } }
 
