@@ -1,0 +1,5 @@
+/System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+/System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+/System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+/usr/libexec/WallpaperAgent
+/usr/libexec/loginwindow
